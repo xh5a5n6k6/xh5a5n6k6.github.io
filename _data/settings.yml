@@ -1,0 +1,32 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-112060364-1'
+
+menu:
+- {name: 'Home', path: '.', url: 'index.html'}
+- {name: 'Portfolio', path: '.', url: 'index.html'}
+- {name: 'Resume', path: '.', url: 'index.html'}
+# - {name: 'Resume', path: 'menu', url: 'resume.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link: 'https://www.github.com/xh5a5n6k6'}
+- {icon: 'facebook', link: 'https://www.facebook.com/xh5a5n6k6'}
+- {icon: 'twitter', link: 'https://twitter.com/xh5a5n6k6'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/chia-yu-hank-chou-0453b9160/'}
+- {icon: 'envelope', link: 'mailto:xh5a5n6k6@gmail.com'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
