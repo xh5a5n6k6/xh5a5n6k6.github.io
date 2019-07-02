@@ -8,9 +8,9 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Home', path: '.', url: 'index.html'}
-- {name: 'Portfolio', path: '.', url: 'index.html'}
-- {name: 'Resume', path: '.', url: 'index.html'}
-# - {name: 'Resume', path: 'menu', url: 'resume.html'}
+- {name: 'Blog', path: 'blog', url: 'index.html'}
+- {name: 'Portfolio', path: 'portfolio', url: 'index.html'}
+- {name: 'Resume', path: 'resume', url: 'index.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
