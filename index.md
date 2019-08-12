@@ -9,4 +9,4 @@ title: Home
 </ul><br/><br/><br/>
 
 <h1>Featured Project</h1>
-<a href="https://github.com/xh5a5n6k6/cadise/"><img src="./assets/img/cornell-box-sphere.png" width="480px"></a>
+<a href="https://github.com/xh5a5n6k6/cadise/"><img src="./assets/img/cadise.jpb" width="480px"></a>
