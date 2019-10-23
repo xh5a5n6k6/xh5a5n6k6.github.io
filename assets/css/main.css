@@ -43,7 +43,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: lane-webfont, sans-serif;
+  font-family: lane_-_narrowregular, sans-serif;
   color: #333;
 }
 
@@ -110,7 +110,7 @@ hr {
 }
 
 .masthead-title a {
-  font-family: lane-webfont, sans-serif;
+  font-family: lane_-_narrowregular, sans-serif;
   font-size: 2.4rem;
   text-decoration: none;
   color: #505050;
@@ -239,7 +239,7 @@ hr {
 }
 
 .menu-content {
-  font-family: lane-webfont, sans-serif;
+  font-family: lane_-_narrowregular, sans-serif;
   float: left;
 }
 
