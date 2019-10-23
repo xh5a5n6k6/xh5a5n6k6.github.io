@@ -18,7 +18,7 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Source Sans Pro", serif;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -43,7 +43,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: lane-webfont, sans-serif;
   color: #333;
 }
 
@@ -110,6 +110,7 @@ hr {
 }
 
 .masthead-title a {
+  font-family: lane-webfont, sans-serif;
   font-size: 2.4rem;
   text-decoration: none;
   color: #505050;
@@ -238,6 +239,7 @@ hr {
 }
 
 .menu-content {
+  font-family: lane-webfont, sans-serif;
   float: left;
 }
 
@@ -245,6 +247,7 @@ hr {
   color: #999;
   font-size: 1.5rem;
   padding-right: 10px;
+  text-decoration: none;
 }
 
 .social-icons {

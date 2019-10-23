@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'lane-webfont';
+    src: url('lane-webfont.eot');
+    src: url('lane-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lane-webfont.woff2') format('woff2'),
+         url('lane-webfont.woff') format('woff'),
+         url('lane-webfont.ttf') format('truetype'),
+         url('lane-webfont.svg#lane-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
