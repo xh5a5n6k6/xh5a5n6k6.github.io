@@ -3,10 +3,10 @@ layout: default
 title: Home
 ---
 
-<img align="left" src="./assets/img/photo.png" width="170px">
-<ul style="padding-left: 205px; padding-top: 25px;">
-    I am Chia-Yu Chou, master's student in Computer Science at National Taiwan University. <br/><br/> Feel free to send me an <a href="mailto:xh5a5n6k6@gmail.com">email</a>.<br/>
-</ul><br/><br/><br/>
+# Welcome
+Hi there! I am Chia-Yu Chou.
 
-<h1>Featured Project</h1>
-<a href="https://github.com/xh5a5n6k6/cadise/"><img src="./assets/img/cadise_logo.png" width="480px"></a>
+I am currently doing my Master degree in Computer Science & Information Engineering at National Taiwan University. My areas of interest include physically based rendering and game development.
+
+# Featured Project
+[Cadise Renderer](https://github.com/xh5a5n6k6/cadise)
