@@ -18,6 +18,6 @@ Email: xh5a5n6k6 (at) gmail (dot) com
 (Feel free to send me an email.)
 
 # Inspiration
-This site is inspired by [Yining Karl Li](https://www.yiningkarlli.com/) and [Benedikt Bitterli](https://benedikt-bitterli.me/). The titles/subtitles are typeset in [Geo Sans Light](https://www.cufonfonts.com/font/geo-sans-light) downloaded from [CUFON Fonts](https://www.cufonfonts.com/), and the body text is typeset in default Sans-Serif font which is OS-dependent.
+This site is inspired by [Yining Karl Li](https://www.yiningkarlli.com/) and [Benedikt Bitterli](https://benedikt-bitterli.me/). The titles/subtitles are typeset in [Geo Sans Light](https://www.cufonfonts.com/font/geo-sans-light/) downloaded from [CUFON Fonts](https://www.cufonfonts.com/), and the body text is typeset in default Sans-Serif font which is OS-dependent.
 
 This Jekyll template ([cychou](https://github.com/xh5a5n6k6/cychou/)) is still in development, and I hope it will soon be finished.

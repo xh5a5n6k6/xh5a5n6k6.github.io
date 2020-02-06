@@ -4,4 +4,4 @@ title: Resume
 ---
 
 # Resume
-This page is unfinished.
+This page is currently under construction.
