@@ -54,11 +54,14 @@ social:
   - {icon: 'linkedin', link: 'https://www.linkedin.com/in/chiayu-hank-chou/'}
 
 
-
-theme: plaintro
-
 # Plugins used in plaintro theme
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-feed
+
+  - jekyll-remote-theme
+
+
+# Remote theme setting
+remote_theme: xh5a5n6k6/plaintro
