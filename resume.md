@@ -32,8 +32,8 @@ title: Resume
 ## Cadise Renderer | 2019 - Present
 - ### Physically-based offline renderer written in C++17
 
-## Loster | 2019 - 2019
-- ### 2D puzzle game made with Unity, in collaboration with [Da-Chung Yi](), [Shih-Wei Huang](), and [Liang-Han Lin]()
+## Loster | 2018 - 2018
+- ### 2D puzzle game containing survival elements made with Unity
 
 
 # Skills
