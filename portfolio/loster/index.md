@@ -13,5 +13,6 @@ Loster was a team project of [CSIE5121: Game Programming (Fall 2018)](http://gra
 Loster is a 2D puzzle game containing survival elements made with Unity.
 
 # Supplemental
-- [Introduction of Loster, PDF (in Mandarin)](/portfolio/loster/loster-introduction.pdf)
+- [Introduction of Loster, PDF (14.3 MB, in Mandarin)](/portfolio/loster/loster-introduction.pdf)
+- [Poster of Loster, PDF (14.5 MB, in Mandarin)](/portfolio/loster/loster-poster.pdf)
 - [Demo Video](https://www.youtube.com/watch?v=c9NVRuqjQ4k)
