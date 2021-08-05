@@ -22,7 +22,7 @@ title: Resume
 - ### M.S., [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/main.php) | Sep 2018 - Jun 2020
     - Advisor: Prof. [Ming Ouhyoung](https://www.csie.ntu.edu.tw/~ming/); [Communications and Multimedia Lab](http://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php) (CMLab)
 
-    - Research topic: physically-based rendering, path guiding
+    - Research topics: physically-based rendering, path guiding
 
 ## [National Taiwan University](https://www.ntu.edu.tw/english/) | Taipei, Taiwan
 - ### B.S., [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) | Sep 2014 - Jun 2018
