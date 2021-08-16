@@ -4,6 +4,10 @@ title: Resume
 ---
 
 # Work Experience
+## [Rayark Inc.](https://www.rayark.com/en/) | Taipei, Taiwan
+- ### Software Engineer (Client) | Aug 2021 - Present
+    - R&D Core Team
+
 ## [National Taiwan University](https://www.ntu.edu.tw/english/) | Taipei, Taiwan
 - ### Teaching Assistant | Mar 2020 - Jun 2020
     - TA of Interactive Computer Graphics (Spring 2020)
