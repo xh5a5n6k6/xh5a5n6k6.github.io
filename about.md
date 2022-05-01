@@ -13,7 +13,7 @@ Previously, I did my undergraduate studies in [Computer Science and Information 
 I interned at [Rayark Inc.](https://www.rayark.com/en/) in summer 2018.
 
 # Contact
-Email: xh5a5n6k6 (at) gmail (dot) com
+Email: chiayu.hank.chou (at) gmail (dot) com
 
 (Feel free to send me an email.)
 

@@ -33,16 +33,16 @@ title: Resume
 
 
 # Projects
-## Cadise Renderer | 2019 - Present
-- ### Physically-based offline renderer written in C++17
+## [Cadise Renderer](https://xh5a5n6k6.github.io/portfolio/cadise-renderer/) | 2019 - Present
+- ### Physically-based offline renderer written in C++
 
-## Loster | 2018 - 2018
+## [Loster](https://xh5a5n6k6.github.io/portfolio/loster/) | 2018 - 2018
 - ### 2D puzzle game containing survival elements made with Unity
 
 
 # Skills
 ## Programming Languages
-- ### C/C++, Python, GLSL
+- ### C/C++, C#, Python, GLSL
 
 ## Frameworks
 - ### OpenGL, OpenCV
