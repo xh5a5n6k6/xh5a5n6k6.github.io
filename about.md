@@ -6,7 +6,7 @@ title: About
 # About
 Hi! I am Chia-Yu Chou.
 
-I am a software engineer (client) at [Rayark Inc.](https://www.rayark.com/en/). Prior to work, I completed my Master's degree from [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/main.php) at [National Taiwan University](https://www.ntu.edu.tw/english/). My areas of interest include physically-based rendering and game development. 
+I am a software engineer with 2 years experience in the gaming industries. I currently work at [Rayark Inc.](https://www.rayark.com/en/), focusing on implementing features in the UI and gameplay systems. Prior to work, I completed my Master's degree from [Graduate Institute of Networking and Multimedia](https://www.inm.ntu.edu.tw/main.php) at [National Taiwan University](https://www.ntu.edu.tw/english/). My areas of interest include physically-based rendering and game development.
 
 Previously, I did my undergraduate studies in [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/english/). 
 

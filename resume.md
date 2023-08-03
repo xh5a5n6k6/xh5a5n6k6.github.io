@@ -6,7 +6,9 @@ title: Resume
 # Work Experience
 ## [Rayark Inc.](https://www.rayark.com/en/) | Taipei, Taiwan
 - ### Software Engineer (Client) | Aug 2021 - Present
-    - R&D Core Team
+    - Implemented various UI systems in collaboration with designers and artists
+
+    - Implemented gameplay features on character skill systems and battle flow systems
 
 ## [National Taiwan University](https://www.ntu.edu.tw/english/) | Taipei, Taiwan
 - ### Teaching Assistant | Mar 2020 - Jun 2020
@@ -41,11 +43,14 @@ title: Resume
 
 
 # Skills
+## Specialized Domains
+- ### Game Programming, Computer Graphics
+
 ## Programming Languages
-- ### C/C++, C#, Python, GLSL
+- ### C/C++, C#, Python, Lua, GLSL
 
 ## Frameworks
-- ### OpenGL, OpenCV
+- ### Gitlab, OpenGL, OpenCV
 
 ## Tools
 - ### Git, CMake, Visual Studio
