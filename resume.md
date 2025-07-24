@@ -5,7 +5,7 @@ title: Resume
 
 # Work Experience
 ## [Rayark Inc.](https://www.rayark.com/en/) | Taipei, Taiwan
-- ### Software Engineer | Aug. 2021 - Feb. 2025
+- ### Software Engineer | Aug. 2021 - Mar. 2025
     - Developed a custom color workflow synchronization tool, increasing artist efficiency by 30%
 
     - Implemented and optimized shader effects such as toon shading and custom shadow maps; utilized Unity's built-in tools and RenderDoc for advanced debugging and profiling
@@ -41,7 +41,7 @@ title: Resume
     - Research topics: physically-based rendering, path guiding
 
 ## [National Taiwan University](https://www.ntu.edu.tw/english/) | Taipei, Taiwan
-- ### B.S., [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) | Sep 2014. - Jun. 2018
+- ### B.S., [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) | Sep. 2014. - Jun. 2018
 
 
 # Projects
